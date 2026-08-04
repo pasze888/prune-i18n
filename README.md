@@ -86,3 +86,7 @@ prune-i18n.exe -apply-decisions decisions.json
 go build -o prune-i18n.exe .
 go test ./...
 ```
+
+## 开源协议
+
+[MIT](LICENSE) © pasze888
