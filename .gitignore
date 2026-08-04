@@ -1,0 +1,12 @@
+# 构建产物
+prune-i18n.exe
+*.exe
+
+# 运行产生的临时/报告文件
+*.pruning.tmp
+llm_prompt_*.txt
+i18n_prune_report_*.md
+mock.log
+
+# 编辑器/工具目录
+.zcode/
